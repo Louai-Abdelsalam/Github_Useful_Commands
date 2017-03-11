@@ -1,0 +1,18 @@
+NOTE: these commands must be made only inside the github REPO folder.
+
+
+# git clone [clone URL] // downloads the repo on your local system.
+
+# git status //shows difference between our copy of the repo and the one saved on the server.
+
+# git add [file name plus extension] //adds file to the repo. if you put -A instead of the file name, 
+it will add all files.
+
+# git commit -m "[message]" //commits the file as in locks it in, but it's still on your pc not on 
+github server. -n is optional and means attach following message/comment to it.
+
+# git push //pushes whatever is committed into github servers so it becomes online.
+
+# git pull //pulls the files from the servers on github onto the local machine.
+
+#esc:wq // to get out of an unending commit command.
